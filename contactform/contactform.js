@@ -102,7 +102,7 @@ jQuery(document).ready(function($) {
 
          alert(msg);
         //if (msg == 'OK') {
-        //  $("#sendmessage").addClass("show");
+          $("#sendmessage").addClass("show");
         //  $("#errormessage").removeClass("show");
         //  $('.contactForm').find("input, textarea").val("");
         //} else {
